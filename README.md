@@ -21,7 +21,6 @@ This project leverages:
 - Streamlit interface for user-friendly interaction
 
 ---
-
 ## Environment Setup
 
 ### Prerequisites
