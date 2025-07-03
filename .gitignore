@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
